@@ -1,6 +1,7 @@
 # Habit System
 
 **Author:** Jasmína Csalová
+**Contact:** habitsystemsupport@gmail.com
 **Institution:** Faculty of Information Technology, Brno University of Technology (FIT VUT)
 
 **Habit System** is a cross-platform mobile application designed to help users build and maintain healthy daily habits. Built with React Native and Expo, the app combines habit tracking with social and gamification elements to keep users motivated and engaged on their self-improvement journey.
